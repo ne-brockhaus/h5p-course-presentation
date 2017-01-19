@@ -79,7 +79,7 @@
 			}]
 		}]
 	}, {
-		"label": "Lokalisieren",
+		"label": "Übersetzungen",
 		"fields": [{
 			"label": "Übersetzung für \"Folie\"",
 			"default": "Folie"
@@ -214,6 +214,9 @@
 			}, {
 				"label": "Deaktiviert"
 			}]
+		}, {
+			"label": "\"Drucken\" Button aktivieren",
+			"description": "Aktiviert den \"Drucken\" Button."
 		}]
 	}]
 }
